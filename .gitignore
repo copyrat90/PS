@@ -1,0 +1,8 @@
+
+# vs & vscode editor settings
+.vs/
+.vscode/
+
+# build output
+build/
+out/
